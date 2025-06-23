@@ -1,1 +1,0 @@
-Información de Informe RHH
