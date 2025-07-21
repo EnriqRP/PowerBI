@@ -1,0 +1,25 @@
+Hola, buenos días. Dejo a continuación el informe de cómo lo realice.
+
+El punto 5 no lo pude hacer por que no entendí bien la primer consigna, si debía eliminar todos los datos y dejar solo los dos requeridos o si debía agruparlos en una nueva consulta.
+
+
+
+
+
+1 IMPORTACION Y LIMPIEZA BASICA
+
+Para realizar estas acciones, se importan los archivos mediante el comando "obtener datos, archivo , csv, lo cual genera una consulta para cada archivo. Luego, se emplea el comando "cambiar nombres de columnas" (haciendo clic derecho sobre los encabezados o desde la pestaña "Transformar") para estandarizar los nombres a títulos más claros como. Luego, para organizar las columnas en un orden específico, se utiliza el comando "mover columnas", arrastrándolas manualmente reordenándolas.
+
+
+
+2 TRASFORMACIONES INTERMEDIAS
+
+Para dividir la columna en dos nuevas columnas llamadas , se utiliza el comando "dividir columnas" , "extraer" , "año"/"mes" desde la pestaña "Transformar". Luego, para reemplazar los valores se aplica el comando "reemplazar valores", disponible al hacer clic derecho sobre la columna . Finalmente, para añadir una nueva columna condicional, se utiliza el comando "agregar columna condicional" desde la pestaña "Agregar columna", configurando la condición.
+
+
+3 UNIFICACION DE DATOS
+
+Para anexar las tablas de ventas de 2023 y 2024 , se utiliza el comando "combinar consultas" , "anexar consultas", ubicado en la pestaña "Inicio". Este comando permite seleccionar ambas tablas . Una vez realizada la anexión, se renombra la nueva tabla resultante desde el panel de consultas.
+
+4 ENRIQUECIMIENTO DE DATOS
+Para importar el archivo y combinarlo se utiliza “combinar consultas” , seleccionando la tabla tabla principal y la tabala secundaria. Se realiza el merge usando la columna común como coincidencia. Finalmente, se expanden las columnas desde el resultado del merge para añadir esa información.
