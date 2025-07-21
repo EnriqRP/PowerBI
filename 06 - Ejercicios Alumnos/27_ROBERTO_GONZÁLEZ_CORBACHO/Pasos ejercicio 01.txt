@@ -1,0 +1,21 @@
+Hola
+
+Te pongo los pasos
+
+1.       Importamos archivos ventas_ 23 y Ventas _24
+
+2.       Ya están renombradas y ordenadas
+
+3.       Pestaña agregar columna botón fecha por año y por nombre de mes, creo 2 columnas
+
+4.       Pestaña transformar botón reemplazar valores
+
+5.       Pestaña agregar columna, botón columna condicional tres condiciones >5, <5, =5
+
+6.       Pestaña inicio, botón anexar consultas, opción anexar consultas para crear una nueva
+
+7.       Importamos, pestaña inicio botón combinar consultas opción en tabla nueva
+
+8.       Agrupamos y calculamos total unidades vendidas
+
+Y te adjunto el ejercicio me quedo atascado en el punto 5

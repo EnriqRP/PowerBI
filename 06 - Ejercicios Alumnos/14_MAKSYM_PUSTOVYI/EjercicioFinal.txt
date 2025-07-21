@@ -1,0 +1,59 @@
+Indica cuáles son las ventajas y las desventajas del Big Data.
+Toma de decisiones más informada: Permite analizar grandes volúmenes de datos para obtener insights valiosos que apoyan decisiones estratégicas y operativas.
+Detección de patrones y tendencias: Facilita identificar comportamientos de clientes, tendencias de mercado o anomalías que pueden ser aprovechadas para mejorar productos o servicios.
+Optimización de procesos: Ayuda a mejorar la eficiencia operativa, reducir costos y aumentar la productividad.
+Personalización: Permite ofrecer experiencias personalizadas a los clientes gracias al análisis detallado de sus preferencias y comportamientos.
+Innovación: Facilita el desarrollo de nuevos productos, servicios y modelos de negocio basados en datos reales y actuales.
+Indica y define las funciones de agregación:
+Suma (SUM): Calcula la suma total de los valores numéricos en un conjunto de datos.
+
+Promedio (AVERAGE o MEAN): Calcula el valor medio de un conjunto de números.
+
+Conteo (COUNT): Cuenta el número de elementos o registros en un conjunto. Puede contar todos los valores o solo los no nulos.
+
+Máximo (MAX): Devuelve el valor más alto dentro de un conjunto.
+
+Mínimo (MIN): Devuelve el valor más bajo dentro de un conjunto.
+
+¿Qué son las leyes de percepción de Gestalt? Enumera sus principios:
+Principio de figura y fondo: El ojo distingue un objeto (figura) de su entorno (fondo), permitiendo focalizar la atención en lo relevante.
+
+Principio de proximidad: Los elementos cercanos entre sí tienden a percibirse como un grupo o conjunto.
+
+Principio de semejanza: Los objetos similares en forma, color o tamaño se agrupan visualmente.
+
+Principio de continuidad: La mente tiende a seguir patrones o líneas continuas, agrupando elementos que parecen seguir una dirección o secuencia.
+
+Principio de cierre: Cuando una figura no está completamente cerrada, la mente tiende a completarla para formar una figura completa.
+
+Principio de simetría y orden: Los elementos simétricos o que siguen un orden lógico se perciben como parte de un grupo cohesivo.
+
+¿Cuáles son los principios del Data Visualization?
+Claridad: La visualización debe comunicar la información de forma clara y comprensible, evitando confusión o ambigüedad.
+
+Precisión: Los datos deben representarse fielmente, sin distorsionar la información ni inducir a error.
+
+Simplicidad: Evitar elementos innecesarios o sobrecarga visual; utilizar diseños limpios que faciliten la interpretación.
+
+Relevancia: Mostrar solo la información necesaria para responder a la pregunta o propósito específico, eliminando datos irrelevantes.
+
+Consistencia: Usar colores, formas y estilos uniformes para facilitar la comparación y comprensión.
+
+Jerarquía visual: Organizar la información para que lo más importante o destacado sea lo primero que capte la atención.
+
+Interactividad (cuando es posible): Permitir que el usuario explore los datos para descubrir detalles adicionales o diferentes perspectivas.
+
+Contexto: Proveer etiquetas, títulos y referencias para que el usuario entienda el significado y origen de los datos mostrados.
+
+¿Qué pasos hay que seguir para implementar el marketing JIT (Marketing Just-in-Time)?
+Conocer al cliente y segmentar el mercado: Identificar y comprender a los diferentes grupos de clientes para adaptar los mensajes y ofertas a sus necesidades específicas.
+
+Recopilar datos en tiempo real: Utilizar tecnologías y herramientas que permitan obtener información actualizada sobre el comportamiento, preferencias y actividades de los consumidores.
+
+Analizar datos y detectar el momento adecuado: Emplear análisis predictivos y algoritmos para identificar cuándo un cliente está listo para recibir una oferta o mensaje personalizado.
+
+Crear contenido relevante y personalizado: Desarrollar mensajes, promociones y contenidos adaptados a las necesidades y contexto específico de cada cliente en ese momento.
+
+Automatizar la entrega: Implementar sistemas automatizados que permitan enviar el contenido justo en el momento óptimo, por el canal adecuado (email, redes sociales, notificaciones push, etc.).
+
+Medir y optimizar resultados: Monitorizar la efectividad de las campañas y ajustar las estrategias basándose en los resultados y feedback recibido para mejorar continuamente.

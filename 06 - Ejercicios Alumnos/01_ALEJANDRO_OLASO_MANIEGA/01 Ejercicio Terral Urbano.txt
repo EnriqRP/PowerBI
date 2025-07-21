@@ -1,0 +1,15 @@
+1. Importación y Limpieza básica:
+Importé los archivos, los encabezados fueron establecidos automáticamente por Power Query.
+2. Transformaciones intermedias:
+Dividí la columna Fecha_Venta por el delimitador "/", me generó 3 columnas: día, mes y año.
+Reemplacé los valores "Sucursal A" y "Sucursal B" usando Reemplazar valores.
+Añadí una columna Tipo_Ventas usando Columna condicional.
+Copié los pasos desde el editor avanzado y lo copié en la tabla de "Ventas_2024" cambiando las referencias para que se ejecutaran los mismos cambios.
+3. Unificación de datos:
+Anexé las tablas de ventas usando Combinar consultas para crear una nueva.
+4. Enriquecimiento de datos:
+Importé la tabla Productos mediante Nuevo orígen, y desde la tabla de Ventas_Totales usé Combinar consultas enlazando ID_Productos de Ventas_Totales con el de la tabla Productos para crear una columna en la que mostrar el nombre y la categoría de los productos.
+5. Agrupación y resumen:
+Usé Agrupar por (uso avanzado) para agrupar por Categoría y Tipo_Venta, y calcular el total de unidades vendidas (Cantidad), Ingreso total (Cantidad * Precio_Unitario) y Precio promedio por unidad.
+Tuve problemas para calcular Ingreso total porque no sabía como hacer la operación en el recuadro que se abre con Agrupar por, así que añadí un paso previo en el que usé Columna personalizada para crear una columna Ingreso con la operación [Cantidad] * [Precio_Unitario].
+Agrupé por Categoría y Tipo_Ventas creando las columnas Total_Unidades_Vendidas, Ingreso_Total y Precio_Promedio mediante la operaciones suma, suma y promedio sobre las columnas Cantidad, Ingreso y Precio_Unitario respectivamente.
