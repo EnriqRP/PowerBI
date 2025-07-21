@@ -1,0 +1,25 @@
+Paso 1: Importar los archivos
+Abre Excel y ve a la pestaña Datos → Obtener datos → Desde archivo → Desde texto/CSV. 
+Importa los archivos Ventas_2023.csv y Ventas_2024.csv. 3. Haz clic en Transformar datos para abrir Power Query.
+Paso 2: Renombrar y reordenar columnas
+Renombra las columnas a: - Fecha_Venta - ID_Producto - Cantidad - Precio_Unitario - Tienda
+Reordena las columnas en este orden: - Fecha_Venta, ID_Producto, Cantidad, Precio_Unitario, Tienda
+Paso 3: Dividir columna de fecha
+Selecciona la columna Fecha_Venta.
+Pulsamos sobre Transformar → Extraer → Año y luego repite para Mes.
+Renombra las nuevas columnas como Año y Mes.
+Paso 4: Reemplazar valores
+Reemplaza 'Sucursal A' por 'Tienda Centro'
+Reemplaza 'Sucursal B' por 'Tienda Norte'
+Paso 5: Añadir columna condicional
+Ir a Agregar columna → Columna condicional.
+Configurar: - Nombre: Tipo_Venta - Condición: Si Cantidad > 5 entonces 'Mayorista', si no 'Minorista
+Paso 6: Anexar tablas
+En Power Query, ve a Inicio → Anexar consultas → Anexar como nuevas.
+Selecciona Ventas_2023 y Ventas_2024.
+Nombra la nueva tabla como Ventas_Totales.
+Paso 7: Importar y combinar productos
+Importar el archivo Productos.csv como una nueva consulta.
+En Ventas_Totales, ve a Inicio → Combinar consultas → Combinar consultas como nuevas.
+Une Ventas_Totales con Productos usando ID_Producto.
+Expande las columnas Nombre_Producto y Categoría.
