@@ -1,0 +1,67 @@
+Buenas tardes, te envío por aquí el ejercicio del tema 4. a través de la propia actividad no me deja hacerlo. 
+
+a) Descripción breve de la organización
+
+La Asociación de Vecinos de la Urbanización “Casas Pareadas” tiene 78 casas pareadas, cada una con su propio parking. En la urbanización hay una piscina y un parque para los niños que todos pueden usar cuando quieran. También hay una sala multitarea que se puede usar, pero hay que reservarla antes. La asociación se encarga de cuidar estas zonas y de que todo funcione bien.
+
+b) Análisis para hacer un proyecto de visualización de datos
+
+- Datos importantes
+
+Lista de vecinos y si están al día con el pago de las cuotas.
+
+Reservas de la sala multitarea con quién y cuándo la usa.
+
+Reportes de problemas o fallos en la piscina, parque o sala.
+
+Gastos que tiene la asociación para mantener todo.
+
+Participación en reuniones o actividades que hacen.
+
+
+
+-  Objetivo principal y secundarios
+
+Objetivo principal:
+
+Hacer un informe que ayude a la junta directiva a controlar los pagos, las reservas y el estado de las instalaciones.
+
+Objetivos secundarios:
+
+Controlar las reservas para que no haya conflictos.
+
+Ver los problemas que hay en la piscina y el parque para arreglarlos rápido.
+
+Controlar los pagos y gastos para que la asociación tenga dinero suficiente.
+
+
+
+- Usuarios del informe
+
+La junta directiva (presidente, tesorero y secretario).
+
+Los vecinos que quieran saber sobre las reservas y el estado de las zonas comunes.
+
+- Contexto y qué info necesitan
+
+La junta directiva usa el informe para organizar el mantenimiento y las reservas. Los vecinos lo usan para saber si pueden reservar la sala o si hay problemas en las zonas comunes. La información tiene que ser fácil de entender y usar.
+
+
+
+- Preguntas según el rol
+
+Presidente: ¿Cuántas reservas tiene la sala este mes? ¿Hay problemas que se repiten en la piscina o el parque?
+
+Tesorero: ¿Cuántos vecinos han pagado la cuota? ¿En qué se gasta el dinero?
+
+Vecino: ¿Puedo reservar la sala para la fecha que quiero? ¿Hay problemas recientes en la urbanización?
+
+- Datos a recoger y cómo.
+
+Lista de vecinos y pagos en una hoja de cálculo o programa.
+
+Calendario o formulario online para las reservas de la sala.
+
+Un email o formulario para reportar problemas.
+
+Control de los gastos con facturas y recibos.
